@@ -16,7 +16,6 @@
 |-----------------|--------------------|
 | Frontend        | React 18 |
 | Backend         | Node.js (Vite)  |
-| База данных     | PostgreSQL 14      |
 
 ## ⚙️ Установка
 ```bash
